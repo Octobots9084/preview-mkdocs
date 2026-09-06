@@ -1,6 +1,6 @@
-# Welcome to the Docs
+# Welcome to the Octobots MkDocs preview page
 
-This is the homepage of the documentation.
+This is the homepage of the documentation for Octobots playtesting.
 
 ## Overview
 * Fast static site generation
